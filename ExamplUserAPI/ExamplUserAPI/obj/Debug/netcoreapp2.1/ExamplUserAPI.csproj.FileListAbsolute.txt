@@ -1,0 +1,14 @@
+E:\SF4C\Training\ExamplUserAPI\ExamplUserAPI\bin\Debug\netcoreapp2.1\ExamplUserAPI.deps.json
+E:\SF4C\Training\ExamplUserAPI\ExamplUserAPI\bin\Debug\netcoreapp2.1\ExamplUserAPI.runtimeconfig.json
+E:\SF4C\Training\ExamplUserAPI\ExamplUserAPI\bin\Debug\netcoreapp2.1\ExamplUserAPI.runtimeconfig.dev.json
+E:\SF4C\Training\ExamplUserAPI\ExamplUserAPI\bin\Debug\netcoreapp2.1\ExamplUserAPI.dll
+E:\SF4C\Training\ExamplUserAPI\ExamplUserAPI\obj\Debug\netcoreapp2.1\ExamplUserAPI.csprojAssemblyReference.cache
+E:\SF4C\Training\ExamplUserAPI\ExamplUserAPI\obj\Debug\netcoreapp2.1\ExamplUserAPI.csproj.CoreCompileInputs.cache
+E:\SF4C\Training\ExamplUserAPI\ExamplUserAPI\obj\Debug\netcoreapp2.1\ExamplUserAPI.RazorAssemblyInfo.cache
+E:\SF4C\Training\ExamplUserAPI\ExamplUserAPI\obj\Debug\netcoreapp2.1\ExamplUserAPI.RazorAssemblyInfo.cs
+E:\SF4C\Training\ExamplUserAPI\ExamplUserAPI\obj\Debug\netcoreapp2.1\ExamplUserAPI.AssemblyInfoInputs.cache
+E:\SF4C\Training\ExamplUserAPI\ExamplUserAPI\obj\Debug\netcoreapp2.1\ExamplUserAPI.AssemblyInfo.cs
+E:\SF4C\Training\ExamplUserAPI\ExamplUserAPI\obj\Debug\netcoreapp2.1\ExamplUserAPI.RazorTargetAssemblyInfo.cache
+E:\SF4C\Training\ExamplUserAPI\ExamplUserAPI\bin\Debug\netcoreapp2.1\ExamplUserAPI.pdb
+E:\SF4C\Training\ExamplUserAPI\ExamplUserAPI\obj\Debug\netcoreapp2.1\ExamplUserAPI.dll
+E:\SF4C\Training\ExamplUserAPI\ExamplUserAPI\obj\Debug\netcoreapp2.1\ExamplUserAPI.pdb
